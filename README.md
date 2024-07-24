@@ -86,7 +86,8 @@ https://www.banggood.com/KEYES-Open-Source-LGT8F328P-Control-Module-Development-
 
 **AliExpress Nano/pro Micro replacements**  
 LGT8F328P LQFP32 replaces NANO V3.0 HT42B534 chip  
-http://s.click.aliexpress.com/e/cEAUGf6s  
+http://s.click.aliexpress.com/e/cEAUGf6s 
+https://www.ovaga.com/products/detail/ht42b534-1（supplement）
 This seller has both variants (SOP20 & LQFP32) but look around there are other sellers too!  
 
 **Logic Green's GitHub for the support files (also on my GitHub)**  
